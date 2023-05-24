@@ -1,0 +1,14 @@
+{
+  "name": "nodejserver",
+  "version": "1.0.0",
+  "description": "This is node server foriChar application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Divya",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
